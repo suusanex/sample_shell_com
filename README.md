@@ -1,0 +1,2 @@
+# sample_shell_com
+指定したパスの表示名を取得し、無い場合はフルパスを返すサンプル。COMのIShellItemを使用する。
